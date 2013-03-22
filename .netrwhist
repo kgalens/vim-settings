@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Applications/Vagrant/embedded/gems/gems/vagrant-1.1.1/plugins/providers/virtualbox/action'
+let g:netrw_dirhist_2='/Users/kevin/.vim/plugin'
+let g:netrw_dirhist_3='/Users/kevin/thehumangeo/mobius'
